@@ -1,0 +1,222 @@
+[
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": "Algebra II",
+    "grade_level": "9-12",
+    "strand": "Functions",
+    "standard_code": "2A.2.A",
+    "description": "graph the functions f(x) = sqrt(x), f(x) = 1/x, f(x) = x^3, f(x) = 3sqrt(x), f(x) = b^x, f(x) = |x|, and f(x) = log_b(x) where b is 2, 10, and e, and when applicable, analyze the key attributes such as domain, range, intercepts, symmetries, asymptotic behavior, and maximum and minimum given an interval",
+    "keywords": ["parent functions", "graph", "domain", "range", "intercepts", "asymptotes", "key attributes"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": "Algebra II",
+    "grade_level": "9-12",
+    "strand": "Functions",
+    "standard_code": "2A.2.B",
+    "description": "describe and analyze the relationship between a function and its inverse (quadratic and square root, logarithmic and exponential), including the restriction(s) on domain, which will restrict its range",
+    "keywords": ["inverse functions", "quadratic", "square root", "logarithmic", "exponential", "domain", "range"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": "Algebra II",
+    "grade_level": "9-12",
+    "strand": "Functions",
+    "standard_code": "2A.2.C",
+    "description": "describe the effect on the graph of f(x) = sqrt(x), f(x) = 1/x, f(x) = x^3, and f(x) = b^x when f(x) is replaced by af(x), f(bx), f(x - c), and f(x) + d for specific positive and negative real values of a, b, c, and d",
+    "keywords": ["transformations", "translations", "reflections", "stretches", "compressions", "parent functions"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": "Algebra II",
+    "grade_level": "9-12",
+    "strand": "Functions",
+    "standard_code": "2A.2.D",
+    "description": "determine the effect on the graph of f(x) = sqrt(x) when f(x) is replaced by af(x), f(x) + d, f(x - c), and f(bx) for specific positive and negative real values of a, b, c, and d",
+    "keywords": ["square root function", "transformations", "graph", "translations", "stretches"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": "Algebra II",
+    "grade_level": "9-12",
+    "strand": "Polynomial Functions",
+    "standard_code": "2A.3.A",
+    "description": "add, subtract, and multiply polynomials",
+    "keywords": ["polynomials", "add", "subtract", "multiply", "operations"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": "Algebra II",
+    "grade_level": "9-12",
+    "strand": "Polynomial Functions",
+    "standard_code": "2A.3.B",
+    "description": "write the equation of a polynomial function of degree three and higher when given the zeros of the polynomial and a point on the polynomial",
+    "keywords": ["polynomial equation", "degree three", "zeros", "write equation", "roots"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": "Algebra II",
+    "grade_level": "9-12",
+    "strand": "Polynomial Functions",
+    "standard_code": "2A.3.C",
+    "description": "determine the quotient of a polynomial of degree three or higher divided by a polynomial of degree one and of degree two",
+    "keywords": ["polynomial division", "quotient", "degree three", "long division", "synthetic division"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": "Algebra II",
+    "grade_level": "9-12",
+    "strand": "Polynomial Functions",
+    "standard_code": "2A.3.D",
+    "description": "determine the linear factors of a polynomial function of degree three and of degree four using algebraic methods",
+    "keywords": ["linear factors", "polynomial", "degree three", "degree four", "factoring", "algebraic methods"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": "Algebra II",
+    "grade_level": "9-12",
+    "strand": "Polynomial Functions",
+    "standard_code": "2A.3.E",
+    "description": "determine linear and quadratic factors of a polynomial expression of degree three and of degree four, including factoring the sum and difference of two cubes and factoring by grouping",
+    "keywords": ["factoring", "sum of cubes", "difference of cubes", "grouping", "polynomial", "quadratic factors"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": "Algebra II",
+    "grade_level": "9-12",
+    "strand": "Rational Functions",
+    "standard_code": "2A.4.A",
+    "description": "write the quadratic function given three specified points in the plane",
+    "keywords": ["quadratic function", "three points", "write", "plane", "parabola"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": "Algebra II",
+    "grade_level": "9-12",
+    "strand": "Rational Functions",
+    "standard_code": "2A.6.A",
+    "description": "analyze the effect on the graphs of f(x) = 1/x when f(x) is replaced by af(x), f(bx), f(x - c), and f(x) + d for specific positive and negative real values of a, b, c, and d",
+    "keywords": ["rational function", "1/x", "transformations", "graph", "asymptotes"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": "Algebra II",
+    "grade_level": "9-12",
+    "strand": "Rational Functions",
+    "standard_code": "2A.6.B",
+    "description": "solve rational equations that have real solutions",
+    "keywords": ["rational equations", "solve", "real solutions", "fractions", "variables"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": "Algebra II",
+    "grade_level": "9-12",
+    "strand": "Rational Functions",
+    "standard_code": "2A.6.C",
+    "description": "determine the asymptotic restrictions on the domain of a rational function and represent the domain and range using interval notation, inequalities, and set notation",
+    "keywords": ["asymptotes", "domain", "range", "rational function", "interval notation", "restrictions"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": "Algebra II",
+    "grade_level": "9-12",
+    "strand": "Square Root Functions",
+    "standard_code": "2A.4.C",
+    "description": "solve square root equations that have real solutions",
+    "keywords": ["square root equations", "solve", "real solutions", "radical"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": "Algebra II",
+    "grade_level": "9-12",
+    "strand": "Exponential and Logarithmic Functions",
+    "standard_code": "2A.5.A",
+    "description": "determine the effects on the key attributes on the graphs of f(x) = b^x and f(x) = log_b(x) where b is 2, 10, and e when f(x) is replaced by af(x), f(x) + d, and f(x - c) for specific positive and negative real values of a, c, and d",
+    "keywords": ["exponential", "logarithmic", "transformations", "graph", "base", "key attributes"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": "Algebra II",
+    "grade_level": "9-12",
+    "strand": "Exponential and Logarithmic Functions",
+    "standard_code": "2A.5.B",
+    "description": "formulate exponential and logarithmic equations that model real-world situations, including exponential relationships written in recursive notation",
+    "keywords": ["exponential equations", "logarithmic equations", "real-world", "model", "recursive notation"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": "Algebra II",
+    "grade_level": "9-12",
+    "strand": "Exponential and Logarithmic Functions",
+    "standard_code": "2A.5.C",
+    "description": "rewrite exponential equations as their corresponding logarithmic equations and logarithmic equations as their corresponding exponential equations",
+    "keywords": ["exponential", "logarithmic", "rewrite", "convert", "corresponding equations"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": "Algebra II",
+    "grade_level": "9-12",
+    "strand": "Exponential and Logarithmic Functions",
+    "standard_code": "2A.5.D",
+    "description": "solve exponential equations of the form y = ab^x where a is a nonzero real number and b is greater than zero and not equal to one and single logarithmic equations having real solutions",
+    "keywords": ["exponential equations", "logarithmic equations", "solve", "y=ab^x", "real solutions"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": "Algebra II",
+    "grade_level": "9-12",
+    "strand": "Exponential and Logarithmic Functions",
+    "standard_code": "2A.5.E",
+    "description": "determine the reasonableness of a solution to a logarithmic equation",
+    "keywords": ["reasonableness", "solution", "logarithmic equation", "check", "verify"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": "Algebra II",
+    "grade_level": "9-12",
+    "strand": "Number and Algebraic Methods",
+    "standard_code": "2A.7.A",
+    "description": "add, subtract, and multiply complex numbers",
+    "keywords": ["complex numbers", "add", "subtract", "multiply", "imaginary", "i"]
+  }
+]

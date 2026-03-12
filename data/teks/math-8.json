@@ -1,0 +1,222 @@
+[
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": null,
+    "grade_level": "8",
+    "strand": "Number and Operations",
+    "standard_code": "8.2.A",
+    "description": "extend previous knowledge of sets and subsets using a visual representation to describe relationships between sets of real numbers",
+    "keywords": ["real numbers", "rational", "irrational", "sets", "subsets", "Venn diagram"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": null,
+    "grade_level": "8",
+    "strand": "Number and Operations",
+    "standard_code": "8.2.B",
+    "description": "approximate the value of an irrational number, including π and square roots of numbers less than 225, and locate that rational number approximation on a number line",
+    "keywords": ["irrational numbers", "square root", "pi", "approximate", "number line"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": null,
+    "grade_level": "8",
+    "strand": "Number and Operations",
+    "standard_code": "8.2.C",
+    "description": "convert between standard decimal notation and scientific notation",
+    "keywords": ["scientific notation", "decimal notation", "convert", "exponents"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": null,
+    "grade_level": "8",
+    "strand": "Number and Operations",
+    "standard_code": "8.2.D",
+    "description": "order a set of real numbers arising from mathematical and real-world contexts",
+    "keywords": ["order", "compare", "real numbers", "number line", "rational", "irrational"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": null,
+    "grade_level": "8",
+    "strand": "Proportionality",
+    "standard_code": "8.3.A",
+    "description": "generalize that the ratio of corresponding sides of similar shapes are proportional, including a shape and its dilation",
+    "keywords": ["similar shapes", "proportional", "corresponding sides", "dilation", "ratio"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": null,
+    "grade_level": "8",
+    "strand": "Proportionality",
+    "standard_code": "8.3.B",
+    "description": "compare and contrast the attributes of a shape and its dilation(s) on a coordinate plane",
+    "keywords": ["dilation", "coordinate plane", "scale factor", "similar", "transformation"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": null,
+    "grade_level": "8",
+    "strand": "Proportionality",
+    "standard_code": "8.4.A",
+    "description": "use similar right triangles to develop an understanding that slope, m, given as the rate comparing the change in y-values to the change in x-values, (y2 - y1)/(x2 - x1), is the same for any two points (x1, y1) and (x2, y2) on the same line",
+    "keywords": ["slope", "similar triangles", "rate of change", "rise over run", "linear"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": null,
+    "grade_level": "8",
+    "strand": "Proportionality",
+    "standard_code": "8.4.B",
+    "description": "graph proportional relationships, interpreting the unit rate as the slope of the line that models the relationship",
+    "keywords": ["proportional", "graph", "unit rate", "slope", "linear", "origin"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": null,
+    "grade_level": "8",
+    "strand": "Proportionality",
+    "standard_code": "8.4.C",
+    "description": "use data from a table or graph to determine the rate of change or slope and y-intercept in mathematical and real-world problems",
+    "keywords": ["rate of change", "slope", "y-intercept", "table", "graph", "linear"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": null,
+    "grade_level": "8",
+    "strand": "Proportionality",
+    "standard_code": "8.5.A",
+    "description": "represent linear proportional situations with tables, graphs, and equations in the form of y = kx",
+    "keywords": ["proportional", "y=kx", "linear", "table", "graph", "equation", "constant"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": null,
+    "grade_level": "8",
+    "strand": "Proportionality",
+    "standard_code": "8.5.B",
+    "description": "represent linear non-proportional situations with tables, graphs, and equations in the form of y = mx + b, where b ≠ 0",
+    "keywords": ["linear", "non-proportional", "y=mx+b", "slope-intercept", "table", "graph"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": null,
+    "grade_level": "8",
+    "strand": "Expressions, Equations, and Relationships",
+    "standard_code": "8.6.A",
+    "description": "describe the volume formula V = Bh of a cylinder in terms of its base area and its height",
+    "keywords": ["volume", "cylinder", "formula", "base area", "height", "V=Bh"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": null,
+    "grade_level": "8",
+    "strand": "Expressions, Equations, and Relationships",
+    "standard_code": "8.6.B",
+    "description": "model the relationship between the volume of a cylinder and a cone having both congruent bases and heights and connect that relationship to the formulas",
+    "keywords": ["volume", "cylinder", "cone", "formula", "relationship", "one-third"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": null,
+    "grade_level": "8",
+    "strand": "Expressions, Equations, and Relationships",
+    "standard_code": "8.7.A",
+    "description": "solve problems involving the volume of cylinders, cones, and spheres",
+    "keywords": ["volume", "cylinder", "cone", "sphere", "solve", "3D", "formula"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": null,
+    "grade_level": "8",
+    "strand": "Expressions, Equations, and Relationships",
+    "standard_code": "8.8.A",
+    "description": "write one-variable equations or inequalities with variables on both sides that represent problems using rational number coefficients and constants",
+    "keywords": ["equations", "inequalities", "variables both sides", "rational coefficients", "one-variable"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": null,
+    "grade_level": "8",
+    "strand": "Expressions, Equations, and Relationships",
+    "standard_code": "8.8.C",
+    "description": "model and solve one-variable equations with variables on both sides of the equal sign that represent mathematical and real-world problems using rational number coefficients and constants",
+    "keywords": ["solve", "equations", "variables both sides", "model", "rational numbers"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": null,
+    "grade_level": "8",
+    "strand": "Expressions, Equations, and Relationships",
+    "standard_code": "8.9.A",
+    "description": "identify and verify the values of x and y that simultaneously satisfy two linear equations in the form y = mx + b from the intersections of the graphed equations",
+    "keywords": ["system of equations", "intersection", "simultaneous", "linear", "graph", "solution"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": null,
+    "grade_level": "8",
+    "strand": "Two-Dimensional Shapes",
+    "standard_code": "8.10.A",
+    "description": "generalize the properties of orientation and congruence of rotations, reflections, translations, and dilations of two-dimensional shapes on a coordinate plane",
+    "keywords": ["rotation", "reflection", "translation", "dilation", "transformation", "congruence", "coordinate plane"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": null,
+    "grade_level": "8",
+    "strand": "Two-Dimensional Shapes",
+    "standard_code": "8.10.B",
+    "description": "differentiate between transformations that preserve congruence and those that do not",
+    "keywords": ["congruence", "transformation", "rigid", "non-rigid", "dilation", "preserve"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": null,
+    "grade_level": "8",
+    "strand": "Measurement and Data",
+    "standard_code": "8.11.A",
+    "description": "construct a scatterplot and describe the observed data to address questions of association such as linear, non-linear, and no association between bivariate sets of data",
+    "keywords": ["scatterplot", "association", "linear", "non-linear", "bivariate", "data", "correlation"]
+  }
+]

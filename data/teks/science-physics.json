@@ -1,0 +1,233 @@
+[
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Science",
+    "course": "Physics",
+    "grade_level": "9-12",
+    "strand": "Force and Motion",
+    "standard_code": "Phys.4.A",
+    "description": "generate and interpret graphs and charts describing different types of motion, including the use of real-time technology such as motion detectors or photogates",
+    "keywords": ["graphs", "motion", "real-time technology", "motion detectors", "photogates", "interpret"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Science",
+    "course": "Physics",
+    "grade_level": "9-12",
+    "strand": "Force and Motion",
+    "standard_code": "Phys.4.B",
+    "description": "describe and calculate the motion of an object using position, displacement, speed, velocity, and acceleration",
+    "keywords": ["position", "displacement", "speed", "velocity", "acceleration", "calculate", "kinematics"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Science",
+    "course": "Physics",
+    "grade_level": "9-12",
+    "strand": "Force and Motion",
+    "standard_code": "Phys.4.C",
+    "description": "analyze and describe accelerated motion in two dimensions using equations, including projectile and circular examples",
+    "keywords": ["accelerated motion", "two dimensions", "projectile motion", "circular motion", "equations"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Science",
+    "course": "Physics",
+    "grade_level": "9-12",
+    "strand": "Force and Motion",
+    "standard_code": "Phys.5.A",
+    "description": "research and describe the historical development of the concepts of gravitational, electromagnetic, weak nuclear, and strong nuclear forces",
+    "keywords": ["gravitational force", "electromagnetic force", "weak nuclear", "strong nuclear", "fundamental forces"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Science",
+    "course": "Physics",
+    "grade_level": "9-12",
+    "strand": "Force and Motion",
+    "standard_code": "Phys.5.B",
+    "description": "describe and calculate how the magnitude of the gravitational force between two objects depends on their masses and the distance between their centers",
+    "keywords": ["gravitational force", "masses", "distance", "calculate", "Newton's law of gravitation"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Science",
+    "course": "Physics",
+    "grade_level": "9-12",
+    "strand": "Force and Motion",
+    "standard_code": "Phys.5.C",
+    "description": "describe and calculate how the magnitude of the electrical force between two objects depends on their charges and the distance between them",
+    "keywords": ["electrical force", "charges", "distance", "Coulomb's law", "calculate"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Science",
+    "course": "Physics",
+    "grade_level": "9-12",
+    "strand": "Force and Motion",
+    "standard_code": "Phys.5.D",
+    "description": "identify examples of electric and magnetic forces in everyday life",
+    "keywords": ["electric forces", "magnetic forces", "everyday life", "examples", "electromagnetism"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Science",
+    "course": "Physics",
+    "grade_level": "9-12",
+    "strand": "Force and Motion",
+    "standard_code": "Phys.6.A",
+    "description": "describe Newton's three laws of motion and apply them to solve problems involving net force, mass, and acceleration",
+    "keywords": ["Newton's laws", "net force", "mass", "acceleration", "inertia", "action-reaction"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Science",
+    "course": "Physics",
+    "grade_level": "9-12",
+    "strand": "Force and Motion",
+    "standard_code": "Phys.6.B",
+    "description": "calculate the effect of forces on objects, including the law of inertia, the relationship between force and acceleration, and the nature of force pairs between objects",
+    "keywords": ["forces", "inertia", "force and acceleration", "force pairs", "F=ma", "calculate"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Science",
+    "course": "Physics",
+    "grade_level": "9-12",
+    "strand": "Force and Motion",
+    "standard_code": "Phys.6.C",
+    "description": "identify and describe motion relative to different frames of reference",
+    "keywords": ["frames of reference", "relative motion", "observer", "motion"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Science",
+    "course": "Physics",
+    "grade_level": "9-12",
+    "strand": "Energy",
+    "standard_code": "Phys.7.A",
+    "description": "investigate and calculate quantities using the work-energy theorem in various situations",
+    "keywords": ["work-energy theorem", "calculate", "work", "energy", "situations"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Science",
+    "course": "Physics",
+    "grade_level": "9-12",
+    "strand": "Energy",
+    "standard_code": "Phys.7.B",
+    "description": "investigate examples of kinetic and potential energy and their transformations",
+    "keywords": ["kinetic energy", "potential energy", "transformations", "conservation", "investigate"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Science",
+    "course": "Physics",
+    "grade_level": "9-12",
+    "strand": "Energy",
+    "standard_code": "Phys.7.C",
+    "description": "calculate the mechanical energy of, power generated within, impulse applied to, and momentum of a physical system",
+    "keywords": ["mechanical energy", "power", "impulse", "momentum", "calculate", "physical system"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Science",
+    "course": "Physics",
+    "grade_level": "9-12",
+    "strand": "Energy",
+    "standard_code": "Phys.7.D",
+    "description": "demonstrate and apply the laws of conservation of energy and conservation of momentum",
+    "keywords": ["conservation of energy", "conservation of momentum", "laws", "apply", "demonstrate"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Science",
+    "course": "Physics",
+    "grade_level": "9-12",
+    "strand": "Waves",
+    "standard_code": "Phys.8.A",
+    "description": "examine and describe oscillatory motion and wave propagation in various types of media",
+    "keywords": ["oscillatory motion", "wave propagation", "media", "waves", "vibration"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Science",
+    "course": "Physics",
+    "grade_level": "9-12",
+    "strand": "Waves",
+    "standard_code": "Phys.8.B",
+    "description": "investigate and analyze characteristics of waves, including velocity, frequency, amplitude, and wavelength, and calculate using the relationship between wave speed, frequency, and wavelength",
+    "keywords": ["waves", "velocity", "frequency", "amplitude", "wavelength", "wave speed", "calculate"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Science",
+    "course": "Physics",
+    "grade_level": "9-12",
+    "strand": "Waves",
+    "standard_code": "Phys.8.C",
+    "description": "compare characteristics and behaviors of transverse waves, including electromagnetic waves, and characteristics and behaviors of longitudinal waves, including sound waves",
+    "keywords": ["transverse waves", "electromagnetic waves", "longitudinal waves", "sound waves", "compare"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Science",
+    "course": "Physics",
+    "grade_level": "9-12",
+    "strand": "Waves",
+    "standard_code": "Phys.8.D",
+    "description": "investigate behaviors of waves, including reflection, refraction, diffraction, interference, resonance, and the Doppler effect",
+    "keywords": ["reflection", "refraction", "diffraction", "interference", "resonance", "Doppler effect"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Science",
+    "course": "Physics",
+    "grade_level": "9-12",
+    "strand": "Electricity and Magnetism",
+    "standard_code": "Phys.9.A",
+    "description": "describe and calculate the relationship between electric current, potential difference, and resistance using Ohm's law",
+    "keywords": ["electric current", "potential difference", "resistance", "Ohm's law", "calculate", "voltage"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Science",
+    "course": "Physics",
+    "grade_level": "9-12",
+    "strand": "Electricity and Magnetism",
+    "standard_code": "Phys.9.B",
+    "description": "analyze series and parallel circuits in terms of current, voltage, and resistance using Ohm's law and Kirchhoff's rules",
+    "keywords": ["series circuits", "parallel circuits", "current", "voltage", "resistance", "Kirchhoff's rules"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Science",
+    "course": "Physics",
+    "grade_level": "9-12",
+    "strand": "Electricity and Magnetism",
+    "standard_code": "Phys.9.C",
+    "description": "investigate and describe the relationship between electric and magnetic fields in applications such as generators, motors, and transformers",
+    "keywords": ["electric fields", "magnetic fields", "generators", "motors", "transformers", "electromagnetism"]
+  }
+]

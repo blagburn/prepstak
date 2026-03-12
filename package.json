@@ -1,0 +1,33 @@
+{
+  "name": "prepstak",
+  "version": "0.1.0",
+  "description": "Open-source MCP server for K-12 educators — browse standards, build units, run expert AI skills",
+  "type": "module",
+  "scripts": {
+    "dev": "node --env-file=.env --import=tsx src/server.ts",
+    "build": "tsc",
+    "typecheck": "tsc --noEmit",
+    "seed": "node --env-file=.env --import=tsx scripts/seed-standards.ts"
+  },
+  "keywords": [
+    "mcp",
+    "education",
+    "k12",
+    "teks",
+    "lesson-planning"
+  ],
+  "author": "Matt Blagburn",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.27.1",
+    "@supabase/supabase-js": "^2.99.1",
+    "express": "^5.2.1",
+    "zod": "^4.3.6"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.6",
+    "@types/node": "^25.4.0",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}

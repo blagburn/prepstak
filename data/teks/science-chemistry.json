@@ -1,0 +1,222 @@
+[
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Science",
+    "course": "Chemistry",
+    "grade_level": "9-12",
+    "strand": "Atomic Structure",
+    "standard_code": "Chem.3.A",
+    "description": "describe the experimental development of atomic theory using the historical models of Democritus, Thomson, Rutherford, and Bohr",
+    "keywords": ["atomic theory", "Democritus", "Thomson", "Rutherford", "Bohr", "historical models"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Science",
+    "course": "Chemistry",
+    "grade_level": "9-12",
+    "strand": "Atomic Structure",
+    "standard_code": "Chem.3.B",
+    "description": "describe the mathematical relationships between the number and arrangement of atoms in chemical formulas and compound names",
+    "keywords": ["chemical formulas", "compound names", "atoms", "arrangement", "nomenclature"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Science",
+    "course": "Chemistry",
+    "grade_level": "9-12",
+    "strand": "Atomic Structure",
+    "standard_code": "Chem.3.C",
+    "description": "calculate the atomic mass of an element using the natural abundance and mass of its isotopes",
+    "keywords": ["atomic mass", "isotopes", "natural abundance", "calculate", "weighted average"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Science",
+    "course": "Chemistry",
+    "grade_level": "9-12",
+    "strand": "Atomic Structure",
+    "standard_code": "Chem.4.A",
+    "description": "understand the use of electron configuration and valence electrons to determine an element's placement on the periodic table",
+    "keywords": ["electron configuration", "valence electrons", "periodic table", "placement", "orbitals"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Science",
+    "course": "Chemistry",
+    "grade_level": "9-12",
+    "strand": "Atomic Structure",
+    "standard_code": "Chem.4.B",
+    "description": "identify and explain the trend of electronegativity, ionization energy, and atomic radius using the periodic table",
+    "keywords": ["electronegativity", "ionization energy", "atomic radius", "periodic trends", "periodic table"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Science",
+    "course": "Chemistry",
+    "grade_level": "9-12",
+    "strand": "Matter and Its Properties",
+    "standard_code": "Chem.5.A",
+    "description": "describe the unique role of water in chemical and biological systems",
+    "keywords": ["water", "chemical systems", "biological systems", "polarity", "hydrogen bonding", "solvent"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Science",
+    "course": "Chemistry",
+    "grade_level": "9-12",
+    "strand": "Matter and Its Properties",
+    "standard_code": "Chem.5.B",
+    "description": "identify and describe physical and chemical properties of elements and compounds, including color, density, viscosity, buoyancy, boiling point, freezing point, conductivity, and reactivity",
+    "keywords": ["physical properties", "chemical properties", "density", "boiling point", "freezing point", "conductivity", "reactivity"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Science",
+    "course": "Chemistry",
+    "grade_level": "9-12",
+    "strand": "Matter and Its Properties",
+    "standard_code": "Chem.5.C",
+    "description": "compare and contrast the physical and chemical properties of mixtures and pure substances",
+    "keywords": ["mixtures", "pure substances", "physical properties", "chemical properties", "compare"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Science",
+    "course": "Chemistry",
+    "grade_level": "9-12",
+    "strand": "Chemical Bonding",
+    "standard_code": "Chem.6.A",
+    "description": "describe chemical bonding using electron dot structures, including ionic bonds, covalent bonds, metallic bonds, and van der Waals forces",
+    "keywords": ["chemical bonding", "electron dot structures", "ionic bonds", "covalent bonds", "metallic bonds", "van der Waals"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Science",
+    "course": "Chemistry",
+    "grade_level": "9-12",
+    "strand": "Chemical Bonding",
+    "standard_code": "Chem.6.B",
+    "description": "draw Lewis structures to explain the bonding in simple molecules and polyatomic ions",
+    "keywords": ["Lewis structures", "bonding", "molecules", "polyatomic ions", "electron pairs"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Science",
+    "course": "Chemistry",
+    "grade_level": "9-12",
+    "strand": "Chemical Reactions",
+    "standard_code": "Chem.7.A",
+    "description": "describe the law of conservation of mass and demonstrate it through balancing chemical equations",
+    "keywords": ["conservation of mass", "balancing equations", "chemical equations", "law", "stoichiometry"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Science",
+    "course": "Chemistry",
+    "grade_level": "9-12",
+    "strand": "Chemical Reactions",
+    "standard_code": "Chem.7.B",
+    "description": "identify and classify chemical reaction types, including synthesis, decomposition, single replacement, and double replacement reactions",
+    "keywords": ["reaction types", "synthesis", "decomposition", "single replacement", "double replacement", "classify"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Science",
+    "course": "Chemistry",
+    "grade_level": "9-12",
+    "strand": "Chemical Reactions",
+    "standard_code": "Chem.7.C",
+    "description": "describe the concept of the mole and use it in calculations involving mass, moles, and number of molecules",
+    "keywords": ["mole", "calculations", "mass", "molecules", "Avogadro's number", "molar mass"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Science",
+    "course": "Chemistry",
+    "grade_level": "9-12",
+    "strand": "Chemical Reactions",
+    "standard_code": "Chem.8.A",
+    "description": "define and use the concept of stoichiometry including calculations of quantities of reactants or products in chemical equations",
+    "keywords": ["stoichiometry", "reactants", "products", "chemical equations", "calculations", "mole ratios"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Science",
+    "course": "Chemistry",
+    "grade_level": "9-12",
+    "strand": "Chemical Reactions",
+    "standard_code": "Chem.8.B",
+    "description": "identify and describe factors that influence the rate of chemical reactions, including temperature, concentration, surface area, and catalysts",
+    "keywords": ["reaction rate", "temperature", "concentration", "surface area", "catalysts", "factors"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Science",
+    "course": "Chemistry",
+    "grade_level": "9-12",
+    "strand": "Chemical Reactions",
+    "standard_code": "Chem.8.C",
+    "description": "describe energy changes in exothermic and endothermic chemical reactions using calorimetry and calculate enthalpy changes",
+    "keywords": ["exothermic", "endothermic", "calorimetry", "enthalpy", "energy changes", "heat"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Science",
+    "course": "Chemistry",
+    "grade_level": "9-12",
+    "strand": "Solutions",
+    "standard_code": "Chem.9.A",
+    "description": "describe the process of dissolving, including the roles of the solute and solvent, and factors that affect solubility such as temperature and pressure",
+    "keywords": ["dissolving", "solute", "solvent", "solubility", "temperature", "pressure"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Science",
+    "course": "Chemistry",
+    "grade_level": "9-12",
+    "strand": "Solutions",
+    "standard_code": "Chem.9.B",
+    "description": "calculate the concentration of solutions in units of molarity",
+    "keywords": ["concentration", "molarity", "solutions", "calculate", "moles", "liters"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Science",
+    "course": "Chemistry",
+    "grade_level": "9-12",
+    "strand": "Solutions",
+    "standard_code": "Chem.10.A",
+    "description": "define acids and bases and distinguish between Arrhenius and Bronsted-Lowry definitions and predict products of acid-base reactions",
+    "keywords": ["acids", "bases", "Arrhenius", "Bronsted-Lowry", "acid-base reactions", "products"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Science",
+    "course": "Chemistry",
+    "grade_level": "9-12",
+    "strand": "Solutions",
+    "standard_code": "Chem.10.B",
+    "description": "understand and calculate pH using the hydrogen ion concentration",
+    "keywords": ["pH", "hydrogen ion", "concentration", "calculate", "acidic", "basic", "neutral"]
+  }
+]

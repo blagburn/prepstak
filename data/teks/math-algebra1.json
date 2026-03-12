@@ -1,0 +1,233 @@
+[
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": "Algebra I",
+    "grade_level": "9-12",
+    "strand": "Number and Algebraic Methods",
+    "standard_code": "A.1.A",
+    "description": "apply mathematics to problems arising in everyday life, society, and the workplace",
+    "keywords": ["real-world", "everyday life", "workplace", "apply", "problems"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": "Algebra I",
+    "grade_level": "9-12",
+    "strand": "Number and Algebraic Methods",
+    "standard_code": "A.1.B",
+    "description": "use a problem-solving model that incorporates analyzing given information, formulating a plan or strategy, determining a solution, justifying the solution, and evaluating the problem-solving process and the reasonableness of the solution",
+    "keywords": ["problem-solving", "analyze", "formulate", "determine", "justify", "evaluate"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": "Algebra I",
+    "grade_level": "9-12",
+    "strand": "Linear Functions",
+    "standard_code": "A.2.A",
+    "description": "determine the domain and range of a linear function in mathematical problems; determine reasonable domain and range values for real-world situations, both continuous and discrete; and represent domain and range using inequalities",
+    "keywords": ["domain", "range", "linear function", "continuous", "discrete", "inequalities"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": "Algebra I",
+    "grade_level": "9-12",
+    "strand": "Linear Functions",
+    "standard_code": "A.2.B",
+    "description": "write linear equations in two variables in various forms, including y = mx + b, Ax + By = C, and y - y1 = m(x - x1), given one point and the slope and given two points",
+    "keywords": ["linear equations", "slope-intercept", "standard form", "point-slope", "two variables"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": "Algebra I",
+    "grade_level": "9-12",
+    "strand": "Linear Functions",
+    "standard_code": "A.2.C",
+    "description": "write linear equations in two variables given a table of values, a graph, and a verbal description",
+    "keywords": ["linear equations", "table", "graph", "verbal description", "write"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": "Algebra I",
+    "grade_level": "9-12",
+    "strand": "Linear Functions",
+    "standard_code": "A.3.A",
+    "description": "determine the slope of a line given a table of values, a graph, two points on the line, and an equation written in various forms, including y = mx + b, Ax + By = C, and y - y1 = m(x - x1)",
+    "keywords": ["slope", "table", "graph", "two points", "equation forms", "rate of change"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": "Algebra I",
+    "grade_level": "9-12",
+    "strand": "Linear Functions",
+    "standard_code": "A.3.B",
+    "description": "calculate the rate of change of a linear function represented tabularly, graphically, or algebraically in context of mathematical and real-world problems",
+    "keywords": ["rate of change", "linear function", "tabular", "graphical", "algebraic", "real-world"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": "Algebra I",
+    "grade_level": "9-12",
+    "strand": "Linear Functions",
+    "standard_code": "A.3.C",
+    "description": "graph linear functions on the coordinate plane and identify key features, including x-intercept, y-intercept, zeros, and slope, in mathematical and real-world problems",
+    "keywords": ["graph", "linear functions", "x-intercept", "y-intercept", "zeros", "slope", "coordinate plane"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": "Algebra I",
+    "grade_level": "9-12",
+    "strand": "Linear Functions",
+    "standard_code": "A.3.D",
+    "description": "graph the solution set of linear inequalities in two variables on the coordinate plane",
+    "keywords": ["graph", "linear inequalities", "two variables", "coordinate plane", "solution set"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": "Algebra I",
+    "grade_level": "9-12",
+    "strand": "Linear Functions",
+    "standard_code": "A.5.A",
+    "description": "solve linear equations in one variable, including those for which the application of the distributive property is necessary and for which variables are included on both sides",
+    "keywords": ["linear equations", "one variable", "distributive property", "solve", "both sides"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": "Algebra I",
+    "grade_level": "9-12",
+    "strand": "Linear Functions",
+    "standard_code": "A.5.B",
+    "description": "solve linear inequalities in one variable, including those for which the application of the distributive property is necessary and for which variables are included on both sides",
+    "keywords": ["linear inequalities", "one variable", "solve", "distributive property"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": "Algebra I",
+    "grade_level": "9-12",
+    "strand": "Linear Functions",
+    "standard_code": "A.5.C",
+    "description": "solve systems of two linear equations with two variables for mathematical and real-world problems",
+    "keywords": ["systems of equations", "two variables", "linear equations", "solve", "real-world"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": "Algebra I",
+    "grade_level": "9-12",
+    "strand": "Quadratic Functions",
+    "standard_code": "A.6.A",
+    "description": "determine the domain and range of quadratic functions and represent the domain and range using inequalities",
+    "keywords": ["domain", "range", "quadratic functions", "inequalities", "parabola"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": "Algebra I",
+    "grade_level": "9-12",
+    "strand": "Quadratic Functions",
+    "standard_code": "A.6.B",
+    "description": "write equations of quadratic functions given the vertex and another point on the graph, write the equation in vertex form (f(x) = a(x - h)^2 + k), and rewrite the equation from vertex form to standard form (f(x) = ax^2 + bx + c)",
+    "keywords": ["quadratic equations", "vertex form", "standard form", "vertex", "parabola"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": "Algebra I",
+    "grade_level": "9-12",
+    "strand": "Quadratic Functions",
+    "standard_code": "A.7.A",
+    "description": "graph quadratic functions on the coordinate plane and use the graph to identify key attributes, if possible, including x-intercept, y-intercept, zeros, maximum value, minimum value, vertex, and the equation of the axis of symmetry",
+    "keywords": ["graph", "quadratic functions", "vertex", "axis of symmetry", "zeros", "maximum", "minimum"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": "Algebra I",
+    "grade_level": "9-12",
+    "strand": "Quadratic Functions",
+    "standard_code": "A.7.B",
+    "description": "describe the relationship between the linear factors of quadratic expressions and the zeros of their associated quadratic functions",
+    "keywords": ["linear factors", "quadratic expressions", "zeros", "factoring", "roots"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": "Algebra I",
+    "grade_level": "9-12",
+    "strand": "Quadratic Functions",
+    "standard_code": "A.8.A",
+    "description": "solve quadratic equations having real solutions by factoring, taking square roots, completing the square, and applying the quadratic formula",
+    "keywords": ["quadratic equations", "factoring", "square roots", "completing the square", "quadratic formula", "solve"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": "Algebra I",
+    "grade_level": "9-12",
+    "strand": "Exponential Functions",
+    "standard_code": "A.9.A",
+    "description": "determine the domain and range of exponential functions of the form f(x) = ab^x and represent the domain and range using inequalities",
+    "keywords": ["domain", "range", "exponential functions", "f(x)=ab^x", "inequalities"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": "Algebra I",
+    "grade_level": "9-12",
+    "strand": "Exponential Functions",
+    "standard_code": "A.9.B",
+    "description": "interpret the meaning of the values of a and b in exponential functions of the form f(x) = ab^x in real-world problems",
+    "keywords": ["exponential functions", "interpret", "a and b values", "real-world", "growth", "decay"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": "Algebra I",
+    "grade_level": "9-12",
+    "strand": "Exponential Functions",
+    "standard_code": "A.9.C",
+    "description": "write exponential functions in the form f(x) = ab^x (where b is a rational number) to describe problems arising from mathematical and real-world situations, including growth and decay",
+    "keywords": ["exponential functions", "write", "growth", "decay", "real-world", "f(x)=ab^x"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": "Algebra I",
+    "grade_level": "9-12",
+    "strand": "Number and Algebraic Methods",
+    "standard_code": "A.10.A",
+    "description": "add and subtract polynomials of degree one and degree two",
+    "keywords": ["polynomials", "add", "subtract", "degree one", "degree two"]
+  }
+]

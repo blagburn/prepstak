@@ -1,0 +1,222 @@
+[
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": null,
+    "grade_level": "7",
+    "strand": "Number and Operations",
+    "standard_code": "7.2.A",
+    "description": "extend previous knowledge of sets and subsets using a visual representation to describe relationships between sets of rational numbers",
+    "keywords": ["rational numbers", "sets", "subsets", "Venn diagram", "number relationships"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": null,
+    "grade_level": "7",
+    "strand": "Number and Operations",
+    "standard_code": "7.2.B",
+    "description": "convert between standard decimal notation and scientific notation",
+    "keywords": ["scientific notation", "decimal notation", "convert", "powers of ten"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": null,
+    "grade_level": "7",
+    "strand": "Number and Operations",
+    "standard_code": "7.3.A",
+    "description": "add, subtract, multiply, and divide rational numbers fluently",
+    "keywords": ["rational numbers", "add", "subtract", "multiply", "divide", "operations", "fluency"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": null,
+    "grade_level": "7",
+    "strand": "Number and Operations",
+    "standard_code": "7.3.B",
+    "description": "apply and extend previous understandings of operations to solve problems using addition, subtraction, multiplication, and division of rational numbers",
+    "keywords": ["rational numbers", "operations", "problem solving", "word problems"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": null,
+    "grade_level": "7",
+    "strand": "Proportionality",
+    "standard_code": "7.4.A",
+    "description": "represent constant rates of change in mathematical and real-world problems given pictorial, tabular, verbal, numeric, graphical, and algebraic representations, including d = rt",
+    "keywords": ["constant rate of change", "proportional", "d=rt", "distance", "rate", "time", "representations"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": null,
+    "grade_level": "7",
+    "strand": "Proportionality",
+    "standard_code": "7.4.B",
+    "description": "calculate unit rates from rates in mathematical and real-world problems",
+    "keywords": ["unit rate", "rate", "ratio", "proportional reasoning"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": null,
+    "grade_level": "7",
+    "strand": "Proportionality",
+    "standard_code": "7.4.C",
+    "description": "determine the constant of proportionality (k = y/x) within mathematical and real-world problems",
+    "keywords": ["constant of proportionality", "k=y/x", "proportional relationship", "ratio"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": null,
+    "grade_level": "7",
+    "strand": "Proportionality",
+    "standard_code": "7.4.D",
+    "description": "solve problems involving ratios, rates, and percents, including multi-step problems involving percent increase and percent decrease, and financial literacy problems",
+    "keywords": ["ratio", "rate", "percent", "percent increase", "percent decrease", "financial literacy", "multi-step"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": null,
+    "grade_level": "7",
+    "strand": "Proportionality",
+    "standard_code": "7.5.A",
+    "description": "generalize the critical attributes of similarity, including ratios within and between similar shapes",
+    "keywords": ["similarity", "similar shapes", "ratios", "scale factor", "proportional"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": null,
+    "grade_level": "7",
+    "strand": "Proportionality",
+    "standard_code": "7.5.B",
+    "description": "describe π as the ratio of the circumference of a circle to its diameter",
+    "keywords": ["pi", "circumference", "diameter", "circle", "ratio"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": null,
+    "grade_level": "7",
+    "strand": "Proportionality",
+    "standard_code": "7.5.C",
+    "description": "solve mathematical and real-world problems involving similar shape and scale drawings",
+    "keywords": ["similar shapes", "scale drawing", "scale factor", "proportional", "geometry"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": null,
+    "grade_level": "7",
+    "strand": "Expressions, Equations, and Relationships",
+    "standard_code": "7.6.A",
+    "description": "represent linear relationships using verbal descriptions, tables, graphs, and equations that simplify to the form y = mx + b",
+    "keywords": ["linear relationships", "y=mx+b", "slope", "tables", "graphs", "equations"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": null,
+    "grade_level": "7",
+    "strand": "Expressions, Equations, and Relationships",
+    "standard_code": "7.7.A",
+    "description": "represent linear relationships using verbal descriptions, tables, graphs, and equations that simplify to the form y = mx + b",
+    "keywords": ["linear", "slope-intercept", "y=mx+b", "graph", "table"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": null,
+    "grade_level": "7",
+    "strand": "Expressions, Equations, and Relationships",
+    "standard_code": "7.10.A",
+    "description": "write one-variable, two-step equations and inequalities to represent constraints or conditions within problems",
+    "keywords": ["equations", "inequalities", "one-variable", "two-step", "constraints"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": null,
+    "grade_level": "7",
+    "strand": "Expressions, Equations, and Relationships",
+    "standard_code": "7.10.B",
+    "description": "represent solutions for one-variable, two-step equations and inequalities on number lines",
+    "keywords": ["equations", "inequalities", "number line", "solutions", "graph"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": null,
+    "grade_level": "7",
+    "strand": "Expressions, Equations, and Relationships",
+    "standard_code": "7.11.A",
+    "description": "model and solve one-variable, two-step equations and inequalities",
+    "keywords": ["solve", "equations", "inequalities", "two-step", "model"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": null,
+    "grade_level": "7",
+    "strand": "Geometry and Measurement",
+    "standard_code": "7.8.A",
+    "description": "model the relationship between the volume of a rectangular prism and a rectangular prism with half the height using concrete objects, and connect that relationship to the formulas",
+    "keywords": ["volume", "rectangular prism", "formula", "model", "concrete"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": null,
+    "grade_level": "7",
+    "strand": "Geometry and Measurement",
+    "standard_code": "7.8.C",
+    "description": "use models to determine the approximate formulas for the circumference and area of a circle and connect the models to the actual formulas",
+    "keywords": ["circumference", "area", "circle", "formula", "pi", "model"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": null,
+    "grade_level": "7",
+    "strand": "Geometry and Measurement",
+    "standard_code": "7.9.A",
+    "description": "solve problems involving the volume of rectangular prisms, triangular prisms, rectangular pyramids, and triangular pyramids",
+    "keywords": ["volume", "prism", "pyramid", "rectangular", "triangular", "3D"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": null,
+    "grade_level": "7",
+    "strand": "Data Analysis",
+    "standard_code": "7.12.A",
+    "description": "compare two groups of numeric data using comparative dot plots or box plots by comparing their shapes, centers, and spreads",
+    "keywords": ["dot plot", "box plot", "compare", "center", "spread", "shape", "data"]
+  }
+]

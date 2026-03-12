@@ -1,0 +1,222 @@
+[
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": "Geometry",
+    "grade_level": "9-12",
+    "strand": "Coordinate and Transformational Geometry",
+    "standard_code": "G.2.A",
+    "description": "determine the coordinates of a point that is a given fractional distance less than one from one end of a line segment to the other in one- and two-dimensional coordinate systems, including finding the midpoint",
+    "keywords": ["coordinates", "fractional distance", "midpoint", "line segment", "coordinate system"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": "Geometry",
+    "grade_level": "9-12",
+    "strand": "Coordinate and Transformational Geometry",
+    "standard_code": "G.2.B",
+    "description": "derive and use the distance formula to verify geometric relationships, including congruence of segments and parallelism or perpendicularity of pairs of lines",
+    "keywords": ["distance formula", "congruence", "segments", "parallel", "perpendicular", "verify"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": "Geometry",
+    "grade_level": "9-12",
+    "strand": "Coordinate and Transformational Geometry",
+    "standard_code": "G.3.A",
+    "description": "describe and perform transformations of figures in a plane using coordinate notation",
+    "keywords": ["transformations", "coordinate notation", "plane", "figures", "describe", "perform"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": "Geometry",
+    "grade_level": "9-12",
+    "strand": "Coordinate and Transformational Geometry",
+    "standard_code": "G.3.B",
+    "description": "determine the image or pre-image of a given two-dimensional figure under a composition of rigid transformations, a composition of non-rigid transformations, and a composition of both, including dilations where the center can be any point in the plane",
+    "keywords": ["image", "pre-image", "rigid transformations", "non-rigid transformations", "dilations", "composition"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": "Geometry",
+    "grade_level": "9-12",
+    "strand": "Coordinate and Transformational Geometry",
+    "standard_code": "G.3.C",
+    "description": "identify the sequence of transformations that will carry a given pre-image onto an image on and off the coordinate plane",
+    "keywords": ["sequence", "transformations", "pre-image", "image", "coordinate plane"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": "Geometry",
+    "grade_level": "9-12",
+    "strand": "Proof and Congruence",
+    "standard_code": "G.4.A",
+    "description": "distinguish between undefined terms, definitions, postulates, conjectures, and theorems",
+    "keywords": ["undefined terms", "definitions", "postulates", "conjectures", "theorems", "proof"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": "Geometry",
+    "grade_level": "9-12",
+    "strand": "Proof and Congruence",
+    "standard_code": "G.5.A",
+    "description": "investigate patterns to make conjectures about geometric relationships, including angles formed by parallel lines cut by a transversal, criteria required for triangle congruence, special segments of triangles, diagonals of quadrilaterals, interior and exterior angles of polygons, and special segments and angles of circles",
+    "keywords": ["conjectures", "parallel lines", "transversal", "triangle congruence", "polygons", "angles"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": "Geometry",
+    "grade_level": "9-12",
+    "strand": "Proof and Congruence",
+    "standard_code": "G.5.B",
+    "description": "construct congruent segments, congruent angles, a segment bisector, an angle bisector, perpendicular lines, the perpendicular bisector of a line segment, and a line parallel to a given line through a point not on the line using a compass and a straightedge",
+    "keywords": ["construct", "congruent", "bisector", "perpendicular", "parallel", "compass", "straightedge"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": "Geometry",
+    "grade_level": "9-12",
+    "strand": "Proof and Congruence",
+    "standard_code": "G.6.A",
+    "description": "verify theorems about angles formed by the intersection of lines and line segments, including vertical angles and angles formed by parallel lines cut by a transversal, and prove equidistance between the endpoints of a segment and points on its perpendicular bisector",
+    "keywords": ["vertical angles", "parallel lines", "transversal", "perpendicular bisector", "verify", "theorems"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": "Geometry",
+    "grade_level": "9-12",
+    "strand": "Proof and Congruence",
+    "standard_code": "G.6.B",
+    "description": "prove two triangles are congruent by applying the Side-Angle-Side, Angle-Side-Angle, Side-Side-Side, Angle-Angle-Side, and Hypotenuse-Leg congruence conditions",
+    "keywords": ["congruent triangles", "SAS", "ASA", "SSS", "AAS", "HL", "prove"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": "Geometry",
+    "grade_level": "9-12",
+    "strand": "Proof and Congruence",
+    "standard_code": "G.6.C",
+    "description": "apply the definition of congruence, in terms of rigid transformations, to identify congruent figures and their corresponding sides and angles",
+    "keywords": ["congruence", "rigid transformations", "corresponding sides", "corresponding angles", "identify"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": "Geometry",
+    "grade_level": "9-12",
+    "strand": "Similarity, Proof, and Trigonometry",
+    "standard_code": "G.7.A",
+    "description": "apply the definition of similarity in terms of a dilation to identify similar figures and their proportional sides and the congruent corresponding angles",
+    "keywords": ["similarity", "dilation", "proportional sides", "congruent angles", "similar figures"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": "Geometry",
+    "grade_level": "9-12",
+    "strand": "Similarity, Proof, and Trigonometry",
+    "standard_code": "G.7.B",
+    "description": "apply the Angle-Angle criterion to verify similar triangles and apply the proportionality of the corresponding sides to solve problems",
+    "keywords": ["Angle-Angle", "similar triangles", "proportionality", "corresponding sides", "solve"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": "Geometry",
+    "grade_level": "9-12",
+    "strand": "Similarity, Proof, and Trigonometry",
+    "standard_code": "G.9.A",
+    "description": "determine the lengths of sides and measures of angles in a right triangle by applying the trigonometric ratios sine, cosine, and tangent to solve problems",
+    "keywords": ["trigonometric ratios", "sine", "cosine", "tangent", "right triangle", "solve"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": "Geometry",
+    "grade_level": "9-12",
+    "strand": "Similarity, Proof, and Trigonometry",
+    "standard_code": "G.9.B",
+    "description": "apply the relationships in special right triangles 30-60-90 and 45-45-90 and the Pythagorean theorem, including Pythagorean triples, to solve problems",
+    "keywords": ["special right triangles", "30-60-90", "45-45-90", "Pythagorean theorem", "Pythagorean triples"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": "Geometry",
+    "grade_level": "9-12",
+    "strand": "Two-Dimensional and Three-Dimensional Figures",
+    "standard_code": "G.10.A",
+    "description": "identify the shapes of two-dimensional cross-sections of prisms, pyramids, cylinders, cones, and spheres and identify three-dimensional objects generated by rotations of two-dimensional shapes",
+    "keywords": ["cross-sections", "prisms", "pyramids", "cylinders", "cones", "spheres", "rotations"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": "Geometry",
+    "grade_level": "9-12",
+    "strand": "Two-Dimensional and Three-Dimensional Figures",
+    "standard_code": "G.10.B",
+    "description": "determine and describe how changes in the linear dimensions of a shape affect its perimeter, area, surface area, or volume, including proportional and non-proportional dimensional change",
+    "keywords": ["linear dimensions", "perimeter", "area", "surface area", "volume", "proportional change"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": "Geometry",
+    "grade_level": "9-12",
+    "strand": "Two-Dimensional and Three-Dimensional Figures",
+    "standard_code": "G.11.A",
+    "description": "apply the formula for the area of regular polygons to solve problems using appropriate units of measure",
+    "keywords": ["area", "regular polygons", "formula", "units of measure", "solve"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": "Geometry",
+    "grade_level": "9-12",
+    "strand": "Two-Dimensional and Three-Dimensional Figures",
+    "standard_code": "G.11.B",
+    "description": "determine the area of composite two-dimensional figures comprised of a combination of triangles, parallelograms, trapezoids, kites, regular polygons, or sectors of circles to solve problems using appropriate units of measure",
+    "keywords": ["composite figures", "area", "triangles", "parallelograms", "trapezoids", "kites", "sectors"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": "Geometry",
+    "grade_level": "9-12",
+    "strand": "Circles",
+    "standard_code": "G.12.A",
+    "description": "apply theorems about circles, including relationships among angles, radii, chords, tangents, and secants, to solve non-trivial problems",
+    "keywords": ["circles", "angles", "radii", "chords", "tangents", "secants", "theorems"]
+  }
+]

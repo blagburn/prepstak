@@ -1,0 +1,233 @@
+[
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": null,
+    "grade_level": "6",
+    "strand": "Number and Operations",
+    "standard_code": "6.2.A",
+    "description": "classify whole numbers, integers, and rational numbers using a visual representation such as a Venn diagram to describe relationships between sets of numbers",
+    "keywords": ["whole numbers", "integers", "rational numbers", "Venn diagram", "classify", "number sets"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": null,
+    "grade_level": "6",
+    "strand": "Number and Operations",
+    "standard_code": "6.2.B",
+    "description": "identify a number, its opposite, and its absolute value",
+    "keywords": ["opposite", "absolute value", "number line", "integers"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": null,
+    "grade_level": "6",
+    "strand": "Number and Operations",
+    "standard_code": "6.2.C",
+    "description": "locate, compare, and order integers and rational numbers using a number line",
+    "keywords": ["integers", "rational numbers", "number line", "compare", "order"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": null,
+    "grade_level": "6",
+    "strand": "Number and Operations",
+    "standard_code": "6.2.D",
+    "description": "order a set of rational numbers arising from mathematical and real-world contexts",
+    "keywords": ["rational numbers", "order", "real-world", "compare", "contexts"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": null,
+    "grade_level": "6",
+    "strand": "Number and Operations",
+    "standard_code": "6.3.A",
+    "description": "recognize that dividing by a rational number and multiplying by its reciprocal result in equivalent values",
+    "keywords": ["dividing", "rational number", "reciprocal", "equivalent", "multiplying"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": null,
+    "grade_level": "6",
+    "strand": "Number and Operations",
+    "standard_code": "6.3.B",
+    "description": "determine, with and without computation, whether a quantity is increased or decreased when multiplied by a fraction, including values greater than or less than one",
+    "keywords": ["fraction", "multiply", "increase", "decrease", "computation"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": null,
+    "grade_level": "6",
+    "strand": "Number and Operations",
+    "standard_code": "6.3.C",
+    "description": "represent integer operations with concrete models and connect the actions with the models to standardized algorithms",
+    "keywords": ["integer operations", "concrete models", "algorithms", "addition", "subtraction"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": null,
+    "grade_level": "6",
+    "strand": "Number and Operations",
+    "standard_code": "6.3.D",
+    "description": "add, subtract, multiply, and divide integers fluently",
+    "keywords": ["integers", "add", "subtract", "multiply", "divide", "fluency", "operations"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": null,
+    "grade_level": "6",
+    "strand": "Proportionality",
+    "standard_code": "6.4.A",
+    "description": "compare two rules verbally, numerically, graphically, and symbolically in order to develop the concept of a ratio",
+    "keywords": ["ratio", "compare", "rules", "graphically", "symbolically", "numerically"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": null,
+    "grade_level": "6",
+    "strand": "Proportionality",
+    "standard_code": "6.4.B",
+    "description": "apply qualitative and quantitative reasoning to solve prediction and comparison of real-world problems involving ratios and rates",
+    "keywords": ["ratios", "rates", "real-world", "prediction", "comparison", "reasoning"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": null,
+    "grade_level": "6",
+    "strand": "Proportionality",
+    "standard_code": "6.4.C",
+    "description": "give examples of ratios as multiplicative comparisons of two quantities describing the same attribute",
+    "keywords": ["ratios", "multiplicative comparisons", "quantities", "attribute"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": null,
+    "grade_level": "6",
+    "strand": "Proportionality",
+    "standard_code": "6.4.D",
+    "description": "give examples of rates as the comparison by division of two quantities having different attributes, including rates as quotients",
+    "keywords": ["rates", "division", "quantities", "different attributes", "unit rate"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": null,
+    "grade_level": "6",
+    "strand": "Proportionality",
+    "standard_code": "6.5.A",
+    "description": "represent mathematical and real-world problems involving ratios and rates using scale factors, tables, graphs, and proportions",
+    "keywords": ["ratios", "rates", "scale factors", "tables", "graphs", "proportions"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": null,
+    "grade_level": "6",
+    "strand": "Expressions, Equations, and Relationships",
+    "standard_code": "6.6.A",
+    "description": "identify independent and dependent quantities from tables and graphs",
+    "keywords": ["independent", "dependent", "quantities", "tables", "graphs", "variables"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": null,
+    "grade_level": "6",
+    "strand": "Expressions, Equations, and Relationships",
+    "standard_code": "6.6.B",
+    "description": "write an equation that represents the relationship between independent and dependent quantities from a table",
+    "keywords": ["equation", "independent", "dependent", "table", "relationship"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": null,
+    "grade_level": "6",
+    "strand": "Expressions, Equations, and Relationships",
+    "standard_code": "6.7.A",
+    "description": "generate equivalent numerical expressions using order of operations, including whole number exponents and prime factorization",
+    "keywords": ["order of operations", "exponents", "prime factorization", "equivalent expressions"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": null,
+    "grade_level": "6",
+    "strand": "Expressions, Equations, and Relationships",
+    "standard_code": "6.9.A",
+    "description": "write one-variable, one-step equations and inequalities to represent constraints or conditions within problems",
+    "keywords": ["equations", "inequalities", "one-variable", "one-step", "constraints"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": null,
+    "grade_level": "6",
+    "strand": "Geometry and Measurement",
+    "standard_code": "6.8.A",
+    "description": "extend previous knowledge of triangles and their properties to include the sum of angles of a triangle, the relationship between the lengths of sides and measures of angles in a triangle, and determining when three lengths form a triangle",
+    "keywords": ["triangles", "angles", "sides", "sum of angles", "triangle inequality"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": null,
+    "grade_level": "6",
+    "strand": "Data Analysis",
+    "standard_code": "6.12.A",
+    "description": "represent numeric data graphically, including dot plots, stem-and-leaf plots, histograms, and box plots",
+    "keywords": ["dot plots", "stem-and-leaf", "histograms", "box plots", "data", "graphically"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": null,
+    "grade_level": "6",
+    "strand": "Data Analysis",
+    "standard_code": "6.12.B",
+    "description": "use the graphical representation of numeric data to describe the center, spread, and shape of the data distribution",
+    "keywords": ["center", "spread", "shape", "data distribution", "mean", "median", "mode"]
+  },
+  {
+    "state": "TX",
+    "framework": "TEKS",
+    "subject": "Mathematics",
+    "course": null,
+    "grade_level": "6",
+    "strand": "Data Analysis",
+    "standard_code": "6.13.A",
+    "description": "interpret numeric data summarized in dot plots, stem-and-leaf plots, histograms, and box plots",
+    "keywords": ["interpret", "dot plots", "stem-and-leaf", "histograms", "box plots", "data"]
+  }
+]
